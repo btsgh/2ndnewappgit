@@ -13,6 +13,10 @@
   "icon": "euros",
   "pages": [
     {
+      "id": "Dashboard",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     }
